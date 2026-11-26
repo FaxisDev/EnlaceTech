@@ -3,6 +3,7 @@ name = "enlacetech"
 version = "0.1.0"
 description = "Guarda enlaces de Rapidgator y avisa cuando se pueden descargar"
 authors = ["EnlaceTech"]
+license = "MIT"
 edition = "2024"
 
 [lib]

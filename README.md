@@ -136,3 +136,7 @@ src-tauri/src/          backend (Rust)
   tray.rs               icono y menú de la barra de menús / bandeja
   lib.rs                comandos que la interfaz puede llamar
 ```
+
+## Licencia
+
+[MIT](LICENSE).
